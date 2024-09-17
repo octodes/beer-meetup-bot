@@ -1,2 +1,2 @@
-# beer-meetup-bot
-Simple bot for creating meetup polls
+# Beer meetup bot
+Simple bot for creating meetup polls in telegram
